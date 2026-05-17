@@ -1,4 +1,4 @@
-# Hello! I'm Ritwik Lodhiya 🙏🏽
+# Hello! I'm Ritwik 🙏🏽
 
 ## 👨🏽‍💻 About Me
 
@@ -45,7 +45,7 @@ I’m especially interested in the intersection of distributed systems and AI in
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" title="Amazon Web Services" style="margin-right: 4px;" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="36" alt="Google Cloud" title="Google Cloud Platform" style="margin-right: 4px;" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="36" alt="GCP" title="Google Cloud Platform" style="margin-right: 4px;" />
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" title="Docker" style="margin-right: 4px;" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="36" alt="Kubernetes" title="Kubernetes" style="margin-right: 4px;" />
   <img src="https://skillicons.dev/icons?i=terraform" height="36" alt="Terraform" title="Terraform" style="margin-right: 4px;" />
@@ -89,17 +89,8 @@ I’m especially interested in the intersection of distributed systems and AI in
 
 ## 📫 Connect With Me
 
-* LinkedIn: <a href="https://www.linkedin.com/in/rlodhiya">linkedin.com/in/rlodhiya</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/rlodhiya" target="_blank">linkedin.com/in/rlodhiya</a>
 * Email: <a href="mailto:hello@rlodhiya.dev" target="_blank">hello@rlodhiya.dev</a>
-* Website: <a href="https://rlodhiya.dev">rlodhiya.dev</a>
+* Website: <a href="https://rlodhiya.dev" target="_blank">rlodhiya.dev</a>
 
 ---
-
-<a href="https://rlodhiya.dev" target="_blank">
-  <img
-    src="/assets/rldhy-logo-banner.png"
-    width="100%"
-    alt="Ritwik Lodhiya"
-  />
-</a>
-
